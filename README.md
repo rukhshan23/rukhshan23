@@ -1,36 +1,35 @@
-## Hi, I'm Rukhshan
+## Hi, I'm Rukhshan 👋
 
-I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems and accessibility tools.
+I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems with a focus on accessibility and communication.
 
-**Research interests:** Human–AI interaction, AI benchmarking, accessibility, AI-driven communication tools, simulation, participatory design.
+**Research interests:** Human–AI interaction · AI benchmarking · Accessibility · LLM-driven communication tools · Simulation · Participatory design
 
 ---
 
-### Featured Research projects
+### Selected Research Projects
 
-- **Benchmarking Anti-autism Communication Bias in LLMs** - A measurement study that benchmarks how LLMs interpret, represent, and evaluate autistic communication in mixed-neurotype settings, contributing a new dataset, benchmarking framework, and findings. 
-  Repo: [llm-bias](https://github.com/rukhshan23/llm-bias) · Paper (pre-print): [Google Drive folder](https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing)
+- **Benchmarking Anti-autism Communication Bias in LLMs** — A measurement study examining how large language models interpret, represent, and evaluate autistic communication in mixed-neurotype settings; contributes a new dataset, benchmarking framework, and empirical findings.  
+  Repo: [llm-bias](https://github.com/rukhshan23/llm-bias) · Paper (pre-print): [Google Drive](https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing)
   
-- **NeuroBridge** — A system that uses LLM-powered conversational simulation to help neurotypical users practice mixed-neurotype communication.  
-  Repo: [asim](https://github.com/nvdaz/asim) · Paper (ASSETS 2025, Best Student Paper 🏆): [PDF](https://rukhshan23.github.io/assets-2025.pdf)
+- **NeuroBridge** — An LLM-powered conversational simulation system that helps neurotypical users practice mixed-neurotype communication through interactive scenarios.  
+  Repo: [asim](https://github.com/nvdaz/asim) · Paper (ASSETS 2025, **Best Student Paper** 🏆): [PDF](https://rukhshan23.github.io/assets-2025.pdf)
 
-- **TwIPS** — An AI-assisted texting interface that supports autistic social media users in interpreting/expressing tone and intent online.  
+- **TwIPS** — An AI-assisted texting interface that supports autistic users in interpreting tone and intent and expressing their intended meaning in online communication.  
   Repo: [TwIPS](https://github.com/rukhshan23/llm-bias) · Paper (ASSETS 2024): [PDF](https://rukhshan23.github.io/twips.pdf)
 
 ---
 
-### Open-source  
-- **Intel CVE Binary Tool** — asyncio test configuration fix [#4685](https://github.com/ossf/cve-bin-tool/issues/4685)
+### 🧩 Open Source
+- **Intel CVE Binary Tool** — asyncio test configuration fix ([PR #4685](https://github.com/intel/cve-bin-tool/pull/4685))
 
 ---
 
-### Professional Social Networks
+### 🌐 Professional Links
 - [Google Scholar](https://scholar.google.com/citations?user=gx-K1jYAAAAJ&hl=en)
 - [Website](https://rukhshan23.github.io)
 - [LinkedIn](https://www.linkedin.com/in/rukhshan-haroon-3b85b7222)
 
 ---
 
-### Contact
+### 📫 Contact
 - Email: rukhshan.haroon@tufts.edu
-
