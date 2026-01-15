@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Rukhshan
 
-<!--
-**rukhshan23/rukhshan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems and accessibility tools.
 
-Here are some ideas to get you started:
+**Research interests:** Human–AI interaction, AI benchmarking, accessibility, AI-driven communication tools, conversational simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Research projects
+
+- **Benchmarking Bias in LLMs**
+  Repo: <https://github.com/rukhshan23/llm-bias> · Paper: <https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing>
+  
+- **NeuroBridge** — LLM-based conversational simulations for cross-neurotype communication and perspective-taking.  
+  Repo: <link> · Paper: 
+
+- **TwIPS** — Texting interface to support interpreting and expressing conversational nuance for autistic users.  
+  Repo: <link> · Paper: <link>
+
+---
+
+### Publications & writing
+- Google Scholar: <link>
+- Website: https://rukhshan23.github.io
+- CV: <link>
+
+---
+
+### Open-source
+- Intel contribution: <PR link> — <one-line description of what you changed>
+
+---
+
+### Contact
+- Email: rukhshan.haroon@tufts.edu
+- LinkedIn: <link>
