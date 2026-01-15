@@ -1,4 +1,4 @@
-## Hi, I'm Rukhshan (pronounced rook-shaan) 👋
+## Hi, I'm Rukhshan 👋
 
 I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems with a focus on accessibility and communication.
 
@@ -33,3 +33,4 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 
 ### 📫 Contact
 - Email: rukhshan.haroon@tufts.edu
+
