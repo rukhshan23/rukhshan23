@@ -19,18 +19,18 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 
 ---
 
-### Professional Social Networks
-- Google Scholar: <link>
-- Website: https://rukhshan23.github.io
-- LinkedIn 
-
----
-
 ### Open-source  
 - **Intel CVE Binary Tool** — asyncio test configuration fix [#4685](https://github.com/ossf/cve-bin-tool/issues/4685)
 
 ---
 
+### Professional Social Networks
+- [Google Scholar](https://scholar.google.com/citations?user=gx-K1jYAAAAJ&hl=en)
+- [Website](https://rukhshan23.github.io)
+- [LinkedIn](https://www.linkedin.com/in/rukhshan-haroon-3b85b7222)
+
+---
+
 ### Contact
 - Email: rukhshan.haroon@tufts.edu
-- LinkedIn: <link>
+
