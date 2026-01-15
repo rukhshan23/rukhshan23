@@ -8,7 +8,7 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 
 ### Featured Research projects
 
-- **Benchmarking Autism Bias in LLMs** - Investigates how LLMs interpret, represent, and evaluate autistic communication in mixed-neurotype settings. Contributes a novel dataset, benchmarking framework, and findings. 
+- **Benchmarking Anti-Autism Bias in LLMs** - Investigates how LLMs interpret, represent, and evaluate autistic communication in mixed-neurotype settings. Contributes a novel dataset, benchmarking framework, and findings. 
   Repo: [llm-bias](https://github.com/rukhshan23/llm-bias) · Paper (pre-print): [Google Drive folder](https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing)
   
 - **NeuroBridge** — LLM-based conversational simulations for cross-neurotype communication and perspective-taking.  
