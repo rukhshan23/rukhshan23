@@ -27,7 +27,7 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 ---
 
 ### Open-source  
-- **Intel CVE Binary Tool** — asyncio test configuration fix ([#4685] (https://github.com/ossf/cve-bin-tool/issues/4685))
+- **Intel CVE Binary Tool** — asyncio test configuration fix [#4685](https://github.com/ossf/cve-bin-tool/issues/4685)
 
 ---
 
