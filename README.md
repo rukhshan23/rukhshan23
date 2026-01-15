@@ -2,7 +2,7 @@
 
 I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems and accessibility tools.
 
-**Research interests:** Human–AI interaction, AI benchmarking, accessibility, AI-driven communication tools, conversational simulations, participatory research.
+**Research interests:** Human–AI interaction, AI benchmarking, accessibility, AI-driven communication tools, simulation, participatory design.
 
 ---
 
