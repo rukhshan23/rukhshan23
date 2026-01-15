@@ -15,7 +15,7 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
   Repo: [asim](https://github.com/nvdaz/asim) · Paper (ASSETS 2025, **Best Student Paper** 🏆): [PDF](https://rukhshan23.github.io/assets-2025.pdf)
 
 - **TwIPS** — An AI-assisted texting interface that supports autistic users in interpreting tone and intent and expressing their intended meaning in online communication.  
-  Repo: [TwIPS](https://github.com/rukhshan23/llm-bias) · Paper (ASSETS 2024): [PDF](https://rukhshan23.github.io/twips.pdf)
+  Repo: [twips](https://github.com/rukhshan23/twips) · Paper (ASSETS 2024): [PDF](https://rukhshan23.github.io/twips.pdf)
 
 ---
 
