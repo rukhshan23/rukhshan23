@@ -9,7 +9,7 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 ### Featured Research projects
 
 - **Benchmarking Bias in LLMs**
-  Repo: <https://github.com/rukhshan23/llm-bias> · Paper: <https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing>
+  Repo: [llm-bias](https://github.com/rukhshan23/llm-bias) · Paper: [Google Drive folder](https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing)
   
 - **NeuroBridge** — LLM-based conversational simulations for cross-neurotype communication and perspective-taking.  
   Repo: <link> · Paper: 
