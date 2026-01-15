@@ -19,15 +19,15 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 
 ---
 
-### Publications & writing
+### Professional Social Networks
 - Google Scholar: <link>
 - Website: https://rukhshan23.github.io
-- CV: <link>
+- LinkedIn 
 
 ---
 
-### Open-source
-- Intel contribution: <PR link> — <one-line description of what you changed>
+### Open-source  
+- **Intel CVE Binary Tool** — asyncio test configuration fix ([#4685] (https://github.com/ossf/cve-bin-tool/issues/4685))
 
 ---
 
