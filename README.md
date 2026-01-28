@@ -12,10 +12,10 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
   Repo: [llm-bias](https://github.com/rukhshan23/llm-bias) · Paper (pre-print): [Google Drive](https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing)
   
 - **NeuroBridge** — An LLM-powered conversational simulation system that helps neurotypical users practice mixed-neurotype communication through interactive scenarios.  
-  Repo: [asim](https://github.com/nvdaz/asim) · Paper (ASSETS 2025, **Best Student Paper** 🏆): [PDF](https://rukhshan23.github.io/assets-2025.pdf)
+  Repo: [asim](https://github.com/nvdaz/asim) · Paper (ACM ASSETS 2025, **Best Student Paper** 🏆): [PDF](https://rukhshan23.github.io/assets-2025.pdf)
 
 - **TwIPS** — An AI-assisted texting interface that supports autistic users in interpreting tone and intent and expressing their intended meaning in online communication.  
-  Repo: [twips](https://github.com/rukhshan23/twips) · Paper (ASSETS 2024): [PDF](https://rukhshan23.github.io/twips.pdf)
+  Repo: [twips](https://github.com/rukhshan23/twips) · Paper (ACM ASSETS 2024): [PDF](https://rukhshan23.github.io/twips.pdf)
 
 ---
 
