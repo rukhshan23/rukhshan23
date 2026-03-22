@@ -1,8 +1,8 @@
 ## Hi, I'm Rukhshan 👋
 
-I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems with a focus on accessibility and communication.
+I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, build, and evaluate human-centered AI systems.
 
-**Research interests:** Human–AI interaction · AI benchmarking · Accessibility · AI bias and fairness · AI-mediated communication · Simulation · Participatory design · Mixed-methods research
+**Research interests:** Human–AI interaction · AI evaluation · Accessibility · AI-mediated communication · Simulation · Participatory design · Mixed-methods
 
 ---
 
