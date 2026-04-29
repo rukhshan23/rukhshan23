@@ -8,8 +8,8 @@ I'm a 4th-year PhD candidate in Computer Science at Tufts University. I study, b
 
 ### Selected Research Projects
 
-- **Benchmarking Cross-neurotype Communication Bias in LLMs** — A benchmarking study examining how large language models interpret, represent, and evaluate autistic communication in mixed-neurotype settings; contributes a new dataset, benchmarking framework, and empirical findings.  
-  Repo: [llm-bias](https://github.com/rukhshan23/llm-bias) · Paper (pre-print): [Google Drive](https://drive.google.com/drive/folders/15xL5G1WZp0TCE403icGR3n6yJOW2MI1r?usp=sharing)
+- **Benchmarking Cross-neurotype Communication Bias in LLMs** — A benchmarking study examining how large language models interpret, represent, and evaluate autistic communication in mixed-neurotype settings; contributes a dataset, benchmarking framework, and empirical findings.  
+  Repo: [llm-bias](https://github.com/rukhshan23/llm-bias)
   
 - **NeuroBridge** — An LLM-powered conversational simulation system that helps neurotypical users practice mixed-neurotype communication through interactive scenarios.  
   Repo: [asim](https://github.com/nvdaz/asim) · Paper (ACM ASSETS 2025, **Best Student Paper** 🏆): [PDF](https://rukhshan23.github.io/assets-2025.pdf)
